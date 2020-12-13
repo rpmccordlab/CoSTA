@@ -22,3 +22,12 @@ To reproduce results in Manuscript, please follow instruction in notebook tutori
 # Other analyses
 
 Analysis about comparison with SPARK and SpatialDE is in the folder of "analysis"
+
+# Requirements
+###
+* NumPy
+* SciPy
+* Pandas
+* Scikit-learn
+* NaiveDE
+* Pytorch
