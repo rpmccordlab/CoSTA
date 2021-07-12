@@ -33,4 +33,4 @@ Analysis about comparison with SPARK and SpatialDE is in the folder of "analysis
   * Pytorch
 
 ## Data description
-For processed data provided in the data folder, images are flattened by row, the last two columns "x" and "y" specify the the dimension of the image rather than coordinates.
+For processed data provided in the data folder, images are flattened by row. The last two columns "x" and "y" specify the the dimension of the image rather than coordinates.
